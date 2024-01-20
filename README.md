@@ -1,4 +1,4 @@
-# BCT_Adoption_Analysis
+# Research of the factors impacting the implementation of Blockchain Technology in the United States
 
 • The contextualization, research procedure, analysis, results, and functional insight gained are detailed in the paper. 
 
