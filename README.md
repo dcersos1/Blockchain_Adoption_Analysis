@@ -1,4 +1,4 @@
-#BCT_Adoption_Analysis
+# BCT_Adoption_Analysis
 
 • The contextualization, research procedure, analysis, results, and functional insight gained are detailed in the paper. 
 
