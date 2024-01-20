@@ -1,8 +1,10 @@
-BCT_Adoption_Analysis
+#BCT_Adoption_Analysis
 
-The contextualization, research procedure, analysis, results, and functional insight gained are detailed in the paper. 
+• The contextualization, research procedure, analysis, results, and functional insight gained are detailed in the paper. 
 
-An .ipynb file is included as well which details the qualtative analysis and processing of the survey data
+• An .ipynb file is included as well which details the qualtative analysis and processing of the survey data
+
+• Image shows the 
 
 A breakdown of the project is as follows:
 
