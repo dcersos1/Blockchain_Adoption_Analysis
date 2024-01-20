@@ -1,0 +1,11 @@
+Open the PLS Smart software.
+Register to the free license.
+Then import the csv where the data is converted in to binary data.
+The questions will be displayed in the left side of the display.
+Select required questions and then drag them to the right side.
+Do this for all of the questions.
+Link the questions to each other like Perceived Risk and INT.
+Once all connections are done, Click on setting icon to calculate PLS-SEM algorithm.
+Keep all default setting and then submit OK.
+One Excl sheet will generate containing 2 sheets, one is Navigation Panel and other is Complete.
+These sheet will have all the calculated details which can be used at the time of defining the table.
