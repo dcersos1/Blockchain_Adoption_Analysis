@@ -3,6 +3,7 @@ BCT_Adoption_Analysis
 The contextualization, research procedure, analysis, results, and functional insight gained are detailed in the paper. An .ipynb file is included as well which details the qualtative analysis and processing of the survey data
 
 A breakdown of the project is as follows:
+
   • Crafted a survey of questions spearheaded by our Professor to evaluate the BCT industry 
   • Developed these survey questions in alignment with the TOE theoretical framework which has been often used in identifying and categorizing elements which affect BCT adoption
   • Distributed to Blockchain experts via our Professor from who we received the data
