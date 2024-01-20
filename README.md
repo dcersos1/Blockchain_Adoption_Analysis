@@ -1,10 +1,12 @@
 # Research of the factors impacting the implementation of Blockchain Technology in the United States
 
-• The contextualization, research procedure, analysis, results, and functional insight gained are detailed in the paper. 
+Content overview:
 
-• An .ipynb file is included as well which details the qualtative analysis and processing of the survey data
+  • The contextualization, research procedure, analysis, results, and functional insight gained are detailed in the paper. 
 
-• Image shows the 
+  • An .ipynb file is included as well which details the qualtative analysis and processing of the survey data
+
+  • The image and associated decription depicts how SmartPLS4 software was used to conduct SEM Analysis
 
 A breakdown of the project is as follows:
 
