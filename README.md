@@ -1,4 +1,4 @@
-# An Analysis into the Factors Impacting the Implementation of Blockchain Technology in the United States
+# An Analysis of the Factors Impacting the Implementation of Blockchain Technology in the United States
 
 Content overview:
 
