@@ -4,7 +4,7 @@ Content overview:
 
   • The contextualization, research procedure, analysis, results, functional insight gained, and references are detailed in the paper. 
 
-  • An .ipynb file is included as well which details the qualtative analysis and processing of the survey data
+  • An .ipynb file is included as well which details the qualitative analysis and processing of the survey data
 
   • The image and associated decription depicts how SmartPLS4 software was used to conduct SEM Analysis
 
