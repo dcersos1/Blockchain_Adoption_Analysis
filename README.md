@@ -23,5 +23,5 @@ A breakdown of the project is as follows:
     its associated theoretical construct as well as the relationships between constructs themselves and their relevance as potential 
     adoption factors
   
-  • Consolidated this procedure into a 17 page report which discusses an overall contextualization, TOE framework, the progression of     
+  • Consolidated this procedure into a paper which discusses an overall contextualization, TOE framework, the progression of     
     this project, results, visualizations of findings, and real world implications. 
