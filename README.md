@@ -10,8 +10,7 @@ Content overview:
 
 A breakdown of the project is as follows:
   
-  • Presented with survey response data from questions in alignment with the TOE theoretical framework which has been often used in     
-    identifying and categorizing elements which affect BCT adoption
+  • Presented with survey response data from questions in alignment with the TOE theoretical framework which has often been used in identifying and categorizing elements which affect BCT     adoption
   
   • Cleaned the data and explored the nature of the responses via qualitative data analysis
   
