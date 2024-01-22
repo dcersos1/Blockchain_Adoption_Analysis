@@ -19,9 +19,6 @@ A breakdown of the project is as follows:
   
   • Converted questions pertaining to Blockchain adoption into numerical values via Likert Scaling
   
-  • Utilized Smartpls4 software to perform SEM analysis to derive credibility metrics which depicted how well each question pertained to 
-    its associated theoretical construct as well as the relationships between constructs themselves and their relevance as potential 
-    adoption factors
+  • Utilized Smartpls4 software to perform SEM analysis to derive credibility metrics which depicted how well each question pertained to its associated theoretical construct as well as       the relationships between constructs themselves and their relevance as potential adoption factors
   
-  • Consolidated this procedure into a paper which discusses an overall contextualization, TOE framework, the progression of     
-    this project, results, visualizations of findings, and real world implications. 
+  • Consolidated this procedure into a paper which discusses an overall contextualization, TOE framework, the progression of this project, results, visualizations of findings, and real       world implications. 
